@@ -1,9 +1,4 @@
-Created interactive dashboard to track, analyse and improve employee performance and employee retention.
+Supply Chain Management
 
-Identified Key factors to reduce attrition.
+This project is a Supply Chain Management Dashboard created using Power BI, designed to provide comprehensive insights and analysis into various aspects of your supply chain. From inventory management to order processing and revenue tracking, this dashboard offers a user-friendly interface to help you make data-driven decisions.
 
-Improved the hiring process.
-
-Improved employee experience.
-
-![Supply Chain Analytics](https://github.com/pratikshaprandive/supplychainmanagement/assets/143409057/1d2b43fe-86b9-4bd1-a312-737c0b2172c2)
